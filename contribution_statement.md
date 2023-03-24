@@ -14,3 +14,9 @@ Haoyu Liu:
 * complete Q1, Q2, and Q3.
 * Reproduce Figure 1 for Question 4. 
 
+June Lee:
+
+* tried Question 4
+* created individual question notebooks
+* added clear description
+* saved question 1,3 image file to output folder
